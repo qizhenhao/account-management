@@ -1,0 +1,23 @@
+2024/07/25 18:22:58 [error] 19048#11708: *1 CreateFile() "C:\Users\q01585\app\Nginx\nginx-1.26.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/07/25 18:25:06 [error] 8236#20448: *1 CreateFile() "C:\Users\q01585\app\Nginx\nginx-1.26.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2024/07/25 18:26:35 [notice] 13944#6664: signal process started
+2024/07/25 18:26:51 [notice] 19264#20320: signal process started
+2024/07/25 18:31:44 [notice] 17132#8776: signal process started
+2024/07/25 18:37:32 [notice] 13016#9964: signal process started
+2024/07/25 18:38:33 [error] 10936#6876: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:38:51 [error] 10936#6876: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:41:01 [error] 10936#6876: *4 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:41:06 [error] 10936#6876: *4 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:41:58 [notice] 8408#13148: signal process started
+2024/07/25 18:42:04 [error] 17852#16132: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:42:05 [error] 17852#16132: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/about" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:44:14 [notice] 3452#4220: signal process started
+2024/07/25 18:45:38 [notice] 6876#2632: signal process started
+2024/07/25 18:45:41 [error] 9308#18140: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www\about.html.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /about.html HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:49:33 [notice] 9900#19196: signal process started
+2024/07/25 18:49:39 [error] 8692#6876: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/abou" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /abou HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:50:32 [error] 8692#6876: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/abou" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /abou HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:50:53 [error] 8692#6876: *1 CreateFile() "C:\Users\q01585\app\Nginx\var\www/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "POST /login HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2024/07/25 18:53:27 [error] 8692#6876: *4 CreateFile() "C:\Users\q01585\app\Nginx\var\www/a45" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a45 HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:53:53 [error] 8692#6876: *4 CreateFile() "C:\Users\q01585\app\Nginx\var\www/a45" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a45 HTTP/1.1", host: "127.0.0.1:8080"
+2024/07/25 18:54:01 [notice] 2908#14468: signal process started
